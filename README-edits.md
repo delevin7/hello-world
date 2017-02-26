@@ -1,5 +1,3 @@
-# hello-world
-
 Hi All!
 
 I'm a forecaster for the National Weather Service 
